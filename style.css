@@ -1,0 +1,31 @@
+.partie1
+{
+  background: #2574A9;
+}
+.LégendePartie1
+{
+  background-color: #2574A9;
+}
+.partie2
+{
+  background: #9A12B3;
+}
+.LégendePartie2
+{
+  background-color: #9A12B3;
+}
+.partie3
+{
+  background: #DB0A5B;
+}
+.LégendePartie3
+{
+  background-color: #DB0A5B;
+}
+.typecarte
+{
+  margin-left: 50px;
+}
+p {
+ margin-left: 25px;
+ }
