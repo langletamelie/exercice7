@@ -1,26 +1,17 @@
+ul{
+  list-style-type: none;
+}
 .partie1
 {
   background: #2574A9;
-}
-.LegendePartie1
-{
-  background-color: #2574A9;
 }
 .partie2
 {
   background: #9A12B3;
 }
-.LegendePartie2
-{
-  background-color: #9A12B3;
-}
 .partie3
 {
   background: #DB0A5B;
-}
-.LegendePartie3
-{
-  background-color: #DB0A5B;
 }
 .typecarte
 {
